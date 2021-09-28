@@ -1,0 +1,32 @@
+.generated{
+    padding: 1rem;
+    animation: move-in 2s ease-out forwards;
+}
+h1{
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 1rem;
+    color: white;
+}
+.buttonB {
+    display: flex;
+    justify-content: center;
+}
+
+@keyframes move-in {
+    from {
+        opacity: 0;
+        transform: translateY(3rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
