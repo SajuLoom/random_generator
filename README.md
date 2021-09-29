@@ -1,3 +1,9 @@
+# Random Generator
+
+The main idea of this repo is a practice to React.js,Generating Random Names,Address,Phone Number,E-Mails and so on for the uses of development purposes.
+Still Developing DONT Stalk😛
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
