@@ -13,7 +13,6 @@ const Details =(props) =>{
             <div className ={classes.button}>
                 <Button label = "Generate Name" onClick = {props.onGenerate}></Button>
             </div>
-            
         </Card>
         </section>
     );

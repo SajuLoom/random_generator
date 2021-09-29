@@ -5,7 +5,8 @@ body {
 
 body{
   background: #FAF3F3;
-  background-image: url(./assets/background.png)
+  background-image: url(./assets/background.png);
+  background-repeat: no-repeat;
 }
 
 code {
